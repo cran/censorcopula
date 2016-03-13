@@ -1,0 +1,3 @@
+import(copula)
+importFrom(stats, optim)
+export(intervalFitb, Newloglik2) 
