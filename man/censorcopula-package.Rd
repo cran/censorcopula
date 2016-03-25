@@ -12,10 +12,10 @@ Censor method to break ties
 nothing
 }
 \author{
-Yan Li
+Yan Li, Yang Li, Yichen Qin, and Jun Yan
 }
 \references{
-nothing
+Yan Li, Yang Li, Yichen Qin, and Jun Yan. Statistical Inference for Copula Modeling(working paper)
 }
 \keyword{ censor }
 \examples{

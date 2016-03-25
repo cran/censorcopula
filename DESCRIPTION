@@ -1,9 +1,9 @@
 Package: censorcopula
 Type: Package
 Title: Estimate Parameter of Bivariate Copula
-Version: 1.0
+Version: 2.0
 Date: 2016-03-07
-Author: Yan Li
+Author: Yan Li, Yang Li, Yichen Qin, and Jun yan
 Maintainer: Yan Li <YanLi_stats@hotmail.com>
 Description: Implement an interval censor method 
  to break ties when using data with ties to fitting a 
@@ -11,6 +11,6 @@ Description: Implement an interval censor method
 License: GPL (>= 2)
 Depends: copula
 NeedsCompilation: no
-Packaged: 2016-03-13 10:47:22 UTC; Leonhard
+Packaged: 2016-03-21 13:23:35 UTC; Leonhard
 Repository: CRAN
-Date/Publication: 2016-03-13 15:07:27
+Date/Publication: 2016-03-25 14:48:05

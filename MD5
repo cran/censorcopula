@@ -1,7 +1,7 @@
-1718ebb66c0847ed8f63a92f81ddbfc5 *DESCRIPTION
+ea83172443f31f7b91e39a55fabd668a *DESCRIPTION
 73d7e8de23afcaa65ec768143ff77bc7 *NAMESPACE
 e05095be930c1cab0556b94b40b659af *R/censoring_method.r
-854f7bf42fbbeec3b77494ed4b056a07 *build/partial.rdb
+fe78b0d67ade257154ab231b33759422 *build/partial.rdb
 da1373e98c9013003bfcad940e030907 *man/Newloglik2.Rd
-559f7d4bc5a2414fdbca840388066dc8 *man/censorcopula-package.Rd
+6578525de39274774cd75972cb07e538 *man/censorcopula-package.Rd
 b41c2a35a57d78f786ce4bed1b420c7f *man/intervalFitb.Rd
